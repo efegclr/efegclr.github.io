@@ -1,0 +1,28 @@
+
+{
+  "name": "Promil Hesaplayıcı Pro",
+  "short_name": "Promil Pro",
+  "description": "Profesyonel alkol metabolizması ve promil hesaplama aracı.",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "/",
+  "id": "com.promil.pro",
+  "categories": ["medical", "health"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/931/931949.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/931/931949.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
